@@ -38786,7 +38786,8 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         .u-body
         {
-        background-image: url("background.png");
+        /* background-image: url("background.png");		 */
+        background-color: #01010c;
         background-size: cover;
         background-position: 50% 50%;
         background-repeat: no-repeat;
