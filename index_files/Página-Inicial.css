@@ -1,0 +1,29 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 424px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 353px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 1px;
+    margin-bottom: 1px;
+  }
+}@font-face {
+  font-family: 'Poppins-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(Poppins-Regular.ttf);
+}
